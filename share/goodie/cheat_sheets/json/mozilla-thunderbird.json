@@ -38,7 +38,7 @@
                 "val": "Get New Messages for Current Account"
             },
             {
-                "key": "[Ctrl]  [⇧]  [T]",
+                "key": "[Ctrl]  [Shift]  [T]",
                 "val": "Get New Messages for All Accounts"
             },
             {
@@ -50,7 +50,7 @@
                 "val": "Reply to Sender of Message"
             },
             {
-                "key": "[Ctrl] [⇧]  [R]",
+                "key": "[Ctrl] [Shift]  [R]",
                 "val": "Reply to All Recipients of Message"
             },
             {
@@ -62,11 +62,11 @@
                 "val": "Send and Receive All Messages"
             },
             {
-                "key": "[Ctrl]  [⏎]",
+                "key": "[Ctrl]  [Enter]",
                 "val": "Send Message Now"
             },
             {
-                "key": "[Ctrl]  [⇧]  [⏎]",
+                "key": "[Ctrl]  [Shift]  [Enter]",
                 "val": "Send Message Later"
             },            
             {
@@ -112,7 +112,7 @@
                 "val": "Label: Later"
             },
             {
-                "key": "[Ctrl]  [⇧]  [C]",
+                "key": "[Ctrl]  [Shift]  [C]",
                 "val": "Mark All Read"
             },
             {
@@ -124,7 +124,7 @@
                 "val": "Mark as Junk"
             },
             {
-                "key": "[⇧]  [J]",
+                "key": "[Shift]  [J]",
                 "val": "Mark as Not Junk"
             },
             {
@@ -193,7 +193,7 @@
                 "val":"Find Link As You Type"
             },
             {
-                "key":"[⇧]  [F3]",
+                "key":"[Shift]  [F3]",
                 "val":"Find Previous"
             },
             {
@@ -205,7 +205,7 @@
                 "val":"Search Bar"
             },
             {
-                "key":"[Ctrl]  [⇧]  [F]",
+                "key":"[Ctrl]  [Shift]  [F]",
                 "val":"Search Messages"
             }
         ],
@@ -262,19 +262,19 @@
                 "val":"Increase Text Size"
             },
             {
-                "key":"[⇧]  [Create a New Message]",
+                "key":"[Shift]  [Create a New Message]",
                 "val":"New Plain Text Message"
             },
             {
-                "key":"[⇧]  [Reply]",
+                "key":"[Shift]  [Reply]",
                 "val":"Plain Text Reply"
             },
             {
-                "key":"[⇧]  [Reply All]",
+                "key":"[Shift]  [Reply All]",
                 "val":"Plain Text Reply All"
             },
             {
-                "key":"[⇧]  [Forward]",
+                "key":"[Shift]  [Forward]",
                 "val":"Plain Text Forward"
             }
             
